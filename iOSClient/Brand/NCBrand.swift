@@ -87,7 +87,7 @@ class NCBrandColor: NSObject {
     @objc public var folderDefaultAutoUpload:           String = "Photos"
     
     // Capabilities Group
-    @objc public let capabilitiesGroups:                String = "group.tech.foxhole"
+    @objc public let capabilitiesGroups:                String = "group.tech.foxholes"
     
     // Options
     @objc public let use_login_web_personalized:        Bool = false                                                // Don't touch me !!
