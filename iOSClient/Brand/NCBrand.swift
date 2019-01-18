@@ -69,7 +69,7 @@ class NCBrandColor: NSObject {
         return instance
     }()
     
-    @objc public let brand:                             String = "Nextcloud"
+    @objc public let brand:                             String = "Foxhole"
     @objc public let mailMe:                            String = "ios@nextcloud.com"
     @objc public let textCopyrightNextcloudiOS:         String = "Nextcloud for iOS %@ © 2018"
     @objc public let textCopyrightNextcloudServer:      String = "Nextcloud Server %@"
@@ -87,7 +87,7 @@ class NCBrandColor: NSObject {
     @objc public var folderDefaultAutoUpload:           String = "Photos"
     
     // Capabilities Group
-    @objc public let capabilitiesGroups:                String = "group.it.twsweb.Crypto-Cloud"
+    @objc public let capabilitiesGroups:                String = "group.tech.foxhole"
     
     // Options
     @objc public let use_login_web_personalized:        Bool = false                                                // Don't touch me !!

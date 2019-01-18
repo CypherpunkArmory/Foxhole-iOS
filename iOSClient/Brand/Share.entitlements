@@ -4,11 +4,11 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.it.twsweb.Crypto-Cloud</string>
+		<string>group.tech.foxhole</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)it.twsweb.Crypto-Cloud</string>
+		<string>$(AppIdentifierPrefix)tech.foxhole.shares</string>
 	</array>
 </dict>
 </plist>

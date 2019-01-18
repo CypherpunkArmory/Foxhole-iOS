@@ -25,12 +25,12 @@
 // App bridge swift
 //
 // change 
-// from   : Nextcloud-Swift.h
+// from   : Foxhole-Swift.h
 // to     : brand-Swift.h
 //
 #if !defined(EXTENSION)
 
-    #import "Nextcloud-Swift.h"
+    #import "Foxhole-Swift.h"
 
 #endif
 
